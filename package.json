@@ -1,5 +1,5 @@
 {
-  "name": "telegram-logger",
+  "name": "gramlog",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,15 +12,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedroh-osouza/telegram-logger.git"
+    "url": "git+https://github.com/pedroh-osouza/gramlog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pedroh-osouza/telegram-logger/issues"
+    "url": "https://github.com/pedroh-osouza/gramlog/issues"
   },
-  "homepage": "https://github.com/pedroh-osouza/telegram-logger#readme",
+  "homepage": "https://github.com/pedroh-osouza/gramlog#readme",
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"

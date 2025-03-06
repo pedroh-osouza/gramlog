@@ -1,1 +1,1 @@
-export { TelegramLogger } from './TelegramLogger';
+export { Gramlog } from './GramLog';

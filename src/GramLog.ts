@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export class TelegramLogger {
+export class Gramlog {
   private token: string;
   private chatId: string | number;
   private apiUrl: string;
@@ -40,7 +40,7 @@ export class TelegramLogger {
         throw new Error(`Erro ao enviar mensagem: ${response.statusText}`);
       }
     } catch (error) {
-      console.error('Erro no TelegramLogger:', error);
+      console.error('Erro no Gramlog:', error);
     }
   }
 
