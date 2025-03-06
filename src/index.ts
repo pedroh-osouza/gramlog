@@ -1,1 +1,1 @@
-export { Gramlog } from './GramLog';
+export { Gramlog } from './Gramlog';
