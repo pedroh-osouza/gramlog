@@ -2,10 +2,8 @@
 
 ## 🚀 Instalação
 
-Você só precisa do `axios` instalado:
-
 ```bash
-npm install axios
+npm install gramlog
 ```
 
 Depois, adicione o arquivo `Gramlog.ts` ao seu projeto.
