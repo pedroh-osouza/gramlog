@@ -1,7 +1,5 @@
 # 📬 Gramlog
 
-Uma lib minimalista de log via Telegram. Ideal para ser notificado direto no celular quando algo importante (ou desastroso) acontece na sua aplicação.
-
 ## 🚀 Instalação
 
 Você só precisa do `axios` instalado:
@@ -72,7 +70,3 @@ Pedido #123 foi pago com sucesso.
 - O Telegram tem **limite de taxa**. Não dispare milhares de mensagens ou você será bloqueado.
 - Ideal para logs de produção ou alertas pontuais.
 - Não abuse: log demais é ruído. Use para o que importa.
-
----
-
-Feito para quem quer saber das coisas **sem abrir o terminal**.
