@@ -67,4 +67,3 @@ Pedido #123 foi pago com sucesso.
 
 - O Telegram tem **limite de taxa**. Não dispare milhares de mensagens ou você será bloqueado.
 - Ideal para logs de produção ou alertas pontuais.
-- Não abuse: log demais é ruído. Use para o que importa.
