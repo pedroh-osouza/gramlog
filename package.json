@@ -1,6 +1,6 @@
 {
   "name": "gramlog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -13,9 +13,24 @@
     "type": "git",
     "url": "git+https://github.com/pedroh-osouza/gramlog.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "telegram",
+    "logger",
+    "logging",
+    "telegram bot",
+    "telegram logger",
+    "telegram log",
+    "log to telegram",
+    "nodejs logger",
+    "remote logger",
+    "log",
+    "bot logger",
+    "telegram api",
+    "gramlog",
+    "monitoring"
+  ],
+  "author": "Pedro Henrique Oliveira de Souza",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pedroh-osouza/gramlog/issues"
   },
